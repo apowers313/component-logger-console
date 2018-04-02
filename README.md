@@ -1,1 +1,3 @@
-Work in progress. Do not use.
+[![Build Status](https://travis-ci.org/apowers313/component-logger-console.svg?branch=master)](https://travis-ci.org/apowers313/component-logger-console) [![Coverage Status](https://coveralls.io/repos/github/apowers313/component-logger-console/badge.svg)](https://coveralls.io/github/apowers313/component-logger-console) [![Known Vulnerabilities](https://snyk.io/test/github/apowers313/component-logger-console/badge.svg?targetFile=package.json)](https://snyk.io/test/github/apowers313/component-logger-console?targetFile=package.json)
+
+Documentation coming soon.
